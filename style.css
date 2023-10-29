@@ -75,7 +75,7 @@ justify-content: space-evenly;
 }
 .image{
     padding: 4px;
-    background-image: url('sphotos.jpeg.jpg');
+    background-image: url('photo.jpg.jpg');
     background-size: cover;
     height: 500px;
     width: 300px;
